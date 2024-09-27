@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 ```
 Добавить зависимость в ```build.gradle```
 ```
-implementation("ru.spaymentsplus.libraries-debug:ecomsdk:$version")
+implementation("ru.spaymentsplus.libraries:ecomsdk:$version")
 ```
